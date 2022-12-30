@@ -35,7 +35,7 @@ const Navbar = () => {
             
             <li className="se-connecter">
               <NavLink exact to="/connexion" >
-                <p>Se connecter </p>
+                <p>Connexion</p>
               </NavLink>
               <li>
               <img src="./img/icons/login.svg" alt="login" />
